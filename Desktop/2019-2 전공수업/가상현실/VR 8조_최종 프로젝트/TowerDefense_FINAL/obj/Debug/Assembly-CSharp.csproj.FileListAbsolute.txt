@@ -1,0 +1,2 @@
+C:\Users\JISU\Downloads\TowerDefense7\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\JISU\Downloads\TowerDefense7\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

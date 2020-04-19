@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense7", "TowerDefense7.csproj", "{74E3A470-D710-349C-5E25-25DB54924A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense7.Plugins", "TowerDefense7.Plugins.csproj", "{0CEB5A4A-2EB6-1868-6FA1-F2B25ED250C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense7.Editor.Plugins", "TowerDefense7.Editor.Plugins.csproj", "{9273B043-ADA9-EA57-D120-1097E8890E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense7.Editor", "TowerDefense7.Editor.csproj", "{8DA2B558-4C0E-1343-76EC-353ACC2477DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E3A470-D710-349C-5E25-25DB54924A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E3A470-D710-349C-5E25-25DB54924A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E3A470-D710-349C-5E25-25DB54924A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E3A470-D710-349C-5E25-25DB54924A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEB5A4A-2EB6-1868-6FA1-F2B25ED250C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEB5A4A-2EB6-1868-6FA1-F2B25ED250C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEB5A4A-2EB6-1868-6FA1-F2B25ED250C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEB5A4A-2EB6-1868-6FA1-F2B25ED250C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9273B043-ADA9-EA57-D120-1097E8890E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273B043-ADA9-EA57-D120-1097E8890E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273B043-ADA9-EA57-D120-1097E8890E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273B043-ADA9-EA57-D120-1097E8890E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA2B558-4C0E-1343-76EC-353ACC2477DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA2B558-4C0E-1343-76EC-353ACC2477DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA2B558-4C0E-1343-76EC-353ACC2477DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA2B558-4C0E-1343-76EC-353ACC2477DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

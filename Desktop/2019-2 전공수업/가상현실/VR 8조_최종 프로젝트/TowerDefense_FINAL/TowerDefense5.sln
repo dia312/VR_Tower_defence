@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense5", "TowerDefense5.csproj", "{7C209E66-DFBA-CE0F-1C56-03D09A3E9AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense5.Plugins", "TowerDefense5.Plugins.csproj", "{B921B809-1AEE-62BB-DAC9-8B1679D26FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense5.Editor.Plugins", "TowerDefense5.Editor.Plugins.csproj", "{5522EB1E-CD03-3C3C-F0D2-2B9B161F7F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefense5.Editor", "TowerDefense5.Editor.csproj", "{540C56AC-D359-B9A2-64A6-78C058140399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C209E66-DFBA-CE0F-1C56-03D09A3E9AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C209E66-DFBA-CE0F-1C56-03D09A3E9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C209E66-DFBA-CE0F-1C56-03D09A3E9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C209E66-DFBA-CE0F-1C56-03D09A3E9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B921B809-1AEE-62BB-DAC9-8B1679D26FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B921B809-1AEE-62BB-DAC9-8B1679D26FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B921B809-1AEE-62BB-DAC9-8B1679D26FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B921B809-1AEE-62BB-DAC9-8B1679D26FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5522EB1E-CD03-3C3C-F0D2-2B9B161F7F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5522EB1E-CD03-3C3C-F0D2-2B9B161F7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5522EB1E-CD03-3C3C-F0D2-2B9B161F7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5522EB1E-CD03-3C3C-F0D2-2B9B161F7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C56AC-D359-B9A2-64A6-78C058140399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C56AC-D359-B9A2-64A6-78C058140399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C56AC-D359-B9A2-64A6-78C058140399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C56AC-D359-B9A2-64A6-78C058140399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
